@@ -1,0 +1,11 @@
+a,s,d,f,g,h,j,k,l,t=1,2,3,4,5,6,7,88,9,0
+name="kavin"
+print a==s
+print a+s
+print a*s
+print a**s
+print a<s
+print a!=s
+print a+d
+print a+s+d
+print name

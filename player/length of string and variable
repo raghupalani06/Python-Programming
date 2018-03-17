@@ -1,0 +1,5 @@
+A="PROGRAMMER"
+print (len(A))
+print (A.count('R'))
+print (A.find('G'))
+print (A.replace('M','Y'))
